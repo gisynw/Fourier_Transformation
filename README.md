@@ -1,4 +1,4 @@
-# Fourier_Transformation
+# Fourier Transformation
 
 Fourier transformation: A mathematical technique used to analyze and decompose complex signals or functions into simpler sinusoidal components.
 
